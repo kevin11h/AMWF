@@ -1,11 +1,4 @@
 # AMWF
-afford money with your friend
-
-
-
-
-PROJECT: Varietal ZELLE.
-REQUIRE: GITHUB ACCOUNT.
 
 
 This is a web server project, you should use HTML, CSS, JAVASCRIPT, PHP (if necessary), database(necessary).
